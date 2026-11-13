@@ -1,0 +1,6 @@
+{
+  "name": "CreatorForge",
+  "description": "Universal AI Content Creator Website Generator with automatic YouTube sync, verified Shorts gallery, live stream detection, subscriber counter, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
